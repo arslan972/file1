@@ -6,3 +6,7 @@ This line also represents featur1
 This line creates featur2
 This line alsorepresents featur2
 This line also alsorepresents featur2
+
+this line is feature3
+this line is also feature3
+this line is also feature3
